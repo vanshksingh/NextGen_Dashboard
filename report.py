@@ -84,5 +84,5 @@ def build_download_artifacts(
 
 
 if __name__ == "__main__":
-    # No runtime side effects; import and call build_download_artifacts() from your app.
+    # No runtime side effects; import and call build_download_artifacts()
     print("report.py loaded. Use build_download_artifacts(...) from your Streamlit app.")

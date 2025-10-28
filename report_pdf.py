@@ -60,5 +60,5 @@ def build_issue_plan_pdf(top_issues: List[Dict[str, str]], feedback: pd.DataFram
     return buf.getvalue()
 
 if __name__ == "__main__":
-    # No execution here; import build_issue_plan_pdf in your app.
+    # No execution here;
     pass
