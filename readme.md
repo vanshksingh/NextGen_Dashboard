@@ -220,11 +220,3 @@ but to **drive decisions**.
 Built with precision & innovation for the Internship Case Study Challenge.
 
 ---
-
-If you want, I can also include:
-
-✅ Screenshots and a walkthrough GIF
-✅ Sample dataset included in repo
-✅ More concrete ROI examples in Innovation Brief
-
-Would you like me to **generate a proper PDF version** of this README for submission and **embed some figures/screenshots**?
