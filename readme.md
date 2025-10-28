@@ -1,6 +1,9 @@
 
 # 📦 AI-Powered Logistics Operations Dashboard
 
+<img width="1109" height="887" alt="Screenshot 2025-10-28 at 6 55 18 AM" src="https://github.com/user-attachments/assets/96c233c4-b752-4af7-94d7-7195ba583246" />
+
+
 🚀 **Smart Ops Insight & Optimization Platform**
 Built for the **Internship Case Study** — combines **data analysis**, **AI insights**, and **action recommendations** to drive logistics excellence.
 
@@ -95,6 +98,9 @@ Column mismatches? ✅ Safeguarded.
 
 ## 📊 Visualization Screens
 
+<img width="1109" height="887" alt="Screenshot 2025-10-28 at 6 55 33 AM" src="https://github.com/user-attachments/assets/adee2e04-5259-4f73-b952-534ad129c41c" />
+
+
 ✔ Cost breakdown (stacked bars)
 ✔ Delivery reliability (SLA)
 ✔ Lead-time distribution
@@ -107,6 +113,9 @@ Column mismatches? ✅ Safeguarded.
 ---
 
 ## 🤖 Ops Copilot — Gemini AI
+
+<img width="1109" height="887" alt="Screenshot 2025-10-28 at 6 55 49 AM" src="https://github.com/user-attachments/assets/80262e2a-9736-4a07-aa73-11c82f12c252" />
+
 
 Ask in natural language:
 
@@ -125,6 +134,9 @@ The Copilot will:
 ---
 
 ## 🔥 Priority Insights (Top-N)
+
+<img width="1109" height="887" alt="Screenshot 2025-10-28 at 6 55 57 AM" src="https://github.com/user-attachments/assets/052d1826-ccb2-4dee-8515-1355a7d8dd93" />
+
 
 Automatically surfaces the **lowest-rated operational issue themes**, sorted by severity + frequency:
 
